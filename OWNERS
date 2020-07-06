@@ -2,10 +2,12 @@
 
 reviewers:
 - tseelbach
+- gecock
 
 approvers:
 - tseelbach
 - kabynarow
+- gecock
 
 labels:
 - Kabtest
